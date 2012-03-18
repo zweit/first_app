@@ -13,3 +13,8 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+doc/
+*.swp #Vim and Emacs swap file
+*~
+.project
+.DS_Store #wierd fiel created by Finder
